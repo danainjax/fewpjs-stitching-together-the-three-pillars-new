@@ -61,3 +61,5 @@ function mimicServerCall() {
     }, 300);
   });
 }
+
+// Uncommented the code to view demo
